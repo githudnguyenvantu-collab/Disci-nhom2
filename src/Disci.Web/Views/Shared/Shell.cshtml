@@ -1,0 +1,62 @@
+@model ShellModel
+@inject IBootService Boot
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
+@inject Microsoft.AspNetCore.Hosting.IWebHostEnvironment Env
+@inject ISiteSettings Site
+@inject ICatalogProvider CatalogData
+@{
+    var p = Model.Page;
+    var boot = await Boot.BuildJsonAsync(User);
+    var siteJson = await Site.GetPublicJsonAsync();
+    var catalogJson = boot == "null" ? "null" : await CatalogData.GetPublicJsonAsync();
+    var csrf = System.Text.Json.JsonSerializer.Serialize(Antiforgery.GetAndStoreTokens(Context).RequestToken);
+    var demoLogin = Env.IsDevelopment() ? "true" : "false";
+}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <title>@p.Title</title>
+    <meta name="theme-color" content="#07110b">
+    @if (!string.IsNullOrEmpty(p.Description))
+    {
+        <meta name="description" content="@p.Description">
+    }
+    <link rel="manifest" href="~/manifest.json">
+    <link rel="icon" href="~/assets/icon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Archivo:wdth,wght@62..125,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+    <script src="~/assets/theme-init.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="~/assets/theme.js"></script>
+    <link rel="stylesheet" href="~/assets/app.css" asp-append-version="true">
+</head>
+<body data-page="@p.Key">
+    <div id="root"></div>
+    <noscript><p style="padding:24px">DISCI cần bật JavaScript để hoạt động.</p></noscript>
+
+    @* Dữ liệu khởi tạo dạng JSON thuần (không phải JavaScript) để IntelliSense không báo lỗi giả *@
+    <script id="disci-boot" type="application/json" data-demo-login="@demoLogin">@Html.Raw(boot)</script>
+    <script id="disci-site" type="application/json">@Html.Raw(siteJson)</script>
+    <script id="disci-catalog" type="application/json">@Html.Raw(catalogJson)</script>
+    <script id="disci-csrf" type="application/json">@Html.Raw(csrf)</script>
+    <script src="~/assets/boot-data.js"></script>
+
+    <script src="~/assets/data.js"></script>
+    <script src="~/assets/engine.js"></script>
+    <script src="~/assets/media.js"></script>
+    <script src="~/assets/store.js"></script>
+    <script src="~/assets/platform.js"></script>
+    @if (p.NeedsDemoScript)
+    {
+        <script src="~/assets/demo.js"></script>
+    }
+    <script src="~/assets/studio.js"></script>
+    <script src="~/assets/ui.js"></script>
+    <script src="@Url.Content("~/assets/pages/" + p.Script)"></script>
+    <script src="~/assets/fx.js" defer></script>
+</body>
+</html>

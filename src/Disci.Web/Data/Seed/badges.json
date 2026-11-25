@@ -1,0 +1,44 @@
+[
+ {
+  "id": "first",
+  "name": "Buổi tập đầu tiên",
+  "icon": "flag",
+  "test": "sessions>=1"
+ },
+ {
+  "id": "streak3",
+  "name": "Chuỗi 3 ngày",
+  "icon": "local_fire_department",
+  "test": "streak>=3"
+ },
+ {
+  "id": "streak7",
+  "name": "Chuỗi 7 ngày",
+  "icon": "whatshot",
+  "test": "streak>=7"
+ },
+ {
+  "id": "ten",
+  "name": "10 buổi hoàn thành",
+  "icon": "military_tech",
+  "test": "sessions>=10"
+ },
+ {
+  "id": "hours5",
+  "name": "5 giờ vận động",
+  "icon": "timer",
+  "test": "minutes>=300"
+ },
+ {
+  "id": "weigh",
+  "name": "Ghi cân nặng lần đầu",
+  "icon": "monitor_weight",
+  "test": "metrics>=1"
+ },
+ {
+  "id": "goal",
+  "name": "Chạm mục tiêu cân nặng",
+  "icon": "emoji_events",
+  "test": "goalReached"
+ }
+]

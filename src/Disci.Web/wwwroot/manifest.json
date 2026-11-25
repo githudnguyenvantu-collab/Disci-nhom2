@@ -1,0 +1,1 @@
+{ "name": "DISCI – Tập luyện cá nhân hóa", "short_name": "DISCI", "start_url": "dashboard.html", "display": "standalone", "background_color": "#07110b", "theme_color": "#07110b", "lang": "vi", "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }] }

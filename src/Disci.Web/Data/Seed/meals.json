@@ -1,0 +1,301 @@
+[
+ {
+  "id": "m1",
+  "name": "Bánh mì trứng ốp la + dưa leo",
+  "slot": "sang",
+  "kcal": 420,
+  "protein": 18,
+  "cost": 22000,
+  "ing": [
+   "1/2 ổ bánh mì",
+   "2 trứng",
+   "dưa leo"
+  ],
+  "icon": "bakery_dining"
+ },
+ {
+  "id": "m2",
+  "name": "Cháo yến mạch chuối + sữa chua",
+  "slot": "sang",
+  "kcal": 350,
+  "protein": 14,
+  "cost": 18000,
+  "ing": [
+   "yến mạch 50g",
+   "chuối",
+   "sữa chua không đường"
+  ],
+  "icon": "breakfast_dining"
+ },
+ {
+  "id": "m3",
+  "name": "Phở gà (ít bánh phở)",
+  "slot": "sang",
+  "kcal": 380,
+  "protein": 25,
+  "cost": 40000,
+  "ing": [
+   "bánh phở",
+   "thịt gà",
+   "hành, rau thơm"
+  ],
+  "icon": "ramen_dining"
+ },
+ {
+  "id": "m4",
+  "name": "Xôi đậu xanh + trứng luộc",
+  "slot": "sang",
+  "kcal": 480,
+  "protein": 17,
+  "cost": 20000,
+  "ing": [
+   "xôi",
+   "đậu xanh",
+   "1 trứng"
+  ],
+  "icon": "rice_bowl"
+ },
+ {
+  "id": "m5",
+  "name": "Sữa chua, trái cây & hạt",
+  "slot": "sang",
+  "kcal": 280,
+  "protein": 12,
+  "cost": 25000,
+  "ing": [
+   "sữa chua",
+   "trái cây",
+   "hạt"
+  ],
+  "icon": "nutrition"
+ },
+ {
+  "id": "m6",
+  "name": "Cơm gạo lứt, ức gà luộc, rau muống xào tỏi",
+  "slot": "trua",
+  "kcal": 520,
+  "protein": 38,
+  "cost": 45000,
+  "ing": [
+   "gạo lứt",
+   "ức gà",
+   "rau muống"
+  ],
+  "icon": "lunch_dining"
+ },
+ {
+  "id": "m7",
+  "name": "Cơm cá thu kho, canh bí đỏ, dưa leo",
+  "slot": "trua",
+  "kcal": 560,
+  "protein": 34,
+  "cost": 40000,
+  "ing": [
+   "cơm",
+   "cá thu",
+   "bí đỏ"
+  ],
+  "icon": "set_meal"
+ },
+ {
+  "id": "m8",
+  "name": "Cơm thịt nạc kho trứng, canh cải",
+  "slot": "trua",
+  "kcal": 600,
+  "protein": 32,
+  "cost": 38000,
+  "ing": [
+   "cơm",
+   "thịt nạc",
+   "trứng",
+   "cải"
+  ],
+  "icon": "set_meal"
+ },
+ {
+  "id": "m9",
+  "name": "Đậu hũ sốt cà chua, cơm, rau luộc",
+  "slot": "trua",
+  "kcal": 480,
+  "protein": 22,
+  "cost": 30000,
+  "ing": [
+   "đậu hũ",
+   "cà chua",
+   "cơm",
+   "rau"
+  ],
+  "icon": "set_meal"
+ },
+ {
+  "id": "m10",
+  "name": "Gỏi gà xé phay",
+  "slot": "trua",
+  "kcal": 380,
+  "protein": 30,
+  "cost": 42000,
+  "ing": [
+   "ức gà",
+   "bắp cải",
+   "rau răm"
+  ],
+  "icon": "salad"
+ },
+ {
+  "id": "m11",
+  "name": "Bún chả (ít bún)",
+  "slot": "trua",
+  "kcal": 580,
+  "protein": 30,
+  "cost": 55000,
+  "ing": [
+   "bún",
+   "thịt nướng",
+   "rau sống"
+  ],
+  "icon": "ramen_dining"
+ },
+ {
+  "id": "m12",
+  "name": "Canh chua cá lóc + cơm",
+  "slot": "toi",
+  "kcal": 520,
+  "protein": 33,
+  "cost": 50000,
+  "ing": [
+   "cá lóc",
+   "cà chua, dứa",
+   "cơm"
+  ],
+  "icon": "soup_kitchen"
+ },
+ {
+  "id": "m13",
+  "name": "Bò xào rau muống + cơm",
+  "slot": "toi",
+  "kcal": 600,
+  "protein": 35,
+  "cost": 60000,
+  "ing": [
+   "thịt bò",
+   "rau muống",
+   "cơm"
+  ],
+  "icon": "dinner_dining"
+ },
+ {
+  "id": "m14",
+  "name": "Trứng chiên rau củ + cơm",
+  "slot": "toi",
+  "kcal": 480,
+  "protein": 22,
+  "cost": 28000,
+  "ing": [
+   "trứng",
+   "rau củ",
+   "cơm"
+  ],
+  "icon": "egg_alt"
+ },
+ {
+  "id": "m15",
+  "name": "Tôm rang + cơm + rau luộc",
+  "slot": "toi",
+  "kcal": 510,
+  "protein": 30,
+  "cost": 55000,
+  "ing": [
+   "tôm",
+   "cơm",
+   "rau"
+  ],
+  "icon": "dinner_dining"
+ },
+ {
+  "id": "m16",
+  "name": "Salad ức gà & trứng",
+  "slot": "toi",
+  "kcal": 350,
+  "protein": 32,
+  "cost": 45000,
+  "ing": [
+   "ức gà",
+   "trứng",
+   "rau xà lách"
+  ],
+  "icon": "salad"
+ },
+ {
+  "id": "m17",
+  "name": "Khoai lang luộc + trứng luộc",
+  "slot": "toi",
+  "kcal": 330,
+  "protein": 14,
+  "cost": 15000,
+  "ing": [
+   "khoai lang",
+   "1 trứng"
+  ],
+  "icon": "egg_alt"
+ },
+ {
+  "id": "m18",
+  "name": "Chuối",
+  "slot": "phu",
+  "kcal": 100,
+  "protein": 1,
+  "cost": 8000,
+  "ing": [
+   "1 quả chuối"
+  ],
+  "icon": "nutrition"
+ },
+ {
+  "id": "m19",
+  "name": "Sữa đậu nành không đường (1 ly)",
+  "slot": "phu",
+  "kcal": 90,
+  "protein": 7,
+  "cost": 10000,
+  "ing": [
+   "sữa đậu nành"
+  ],
+  "icon": "local_drink"
+ },
+ {
+  "id": "m20",
+  "name": "Trứng luộc (2 quả)",
+  "slot": "phu",
+  "kcal": 140,
+  "protein": 12,
+  "cost": 7000,
+  "ing": [
+   "2 trứng"
+  ],
+  "icon": "egg"
+ },
+ {
+  "id": "m21",
+  "name": "Hạt hỗn hợp (1 nắm nhỏ)",
+  "slot": "phu",
+  "kcal": 170,
+  "protein": 5,
+  "cost": 15000,
+  "ing": [
+   "hạt"
+  ],
+  "icon": "spa"
+ },
+ {
+  "id": "m22",
+  "name": "Sữa chua không đường",
+  "slot": "phu",
+  "kcal": 100,
+  "protein": 6,
+  "cost": 10000,
+  "ing": [
+   "sữa chua"
+  ],
+  "icon": "icecream"
+ }
+]

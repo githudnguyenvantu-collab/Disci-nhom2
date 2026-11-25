@@ -1,0 +1,382 @@
+[
+ {
+  "id": "band-set3",
+  "name": "Set 3 dây kháng lực",
+  "cat": "band",
+  "price": 129000,
+  "desc": "Ba mức lực, dùng cho cả thân trên và thân dưới.",
+  "unlocks": "band",
+  "goals": [
+   "fatloss",
+   "muscle",
+   "endurance",
+   "health"
+  ],
+  "space": "small",
+  "prio": "essential",
+  "icon": "gesture",
+  "specs": [
+   "3 mức lực: nhẹ/vừa/nặng",
+   "Chất liệu latex",
+   "Gọn trong ba lô"
+  ],
+  "how": "Móc dây vào cửa/cột chắc chắn, bắt đầu với mức nhẹ.",
+  "forWho": "Người mới, ở phòng nhỏ, ngân sách thấp.",
+  "note": "Kiểm tra dây không rạn nứt trước mỗi buổi."
+ },
+ {
+  "id": "band-loop",
+  "name": "Vòng dây mông (loop band)",
+  "cat": "band",
+  "price": 79000,
+  "desc": "Kích hoạt cơ mông, hỗ trợ tập chân.",
+  "unlocks": "band",
+  "goals": [
+   "muscle",
+   "health"
+  ],
+  "space": "small",
+  "prio": "consider",
+  "icon": "circle",
+  "specs": [
+   "Vải co giãn",
+   "3 mức lực"
+  ],
+  "how": "Đặt trên gối khi tập cầu mông, đi ngang.",
+  "forWho": "Người tập chân/mông.",
+  "note": ""
+ },
+ {
+  "id": "db-adj",
+  "name": "Tạ tay điều chỉnh 2×10kg",
+  "cat": "dumbbell",
+  "price": 690000,
+  "desc": "Một cặp tạ đổi được nhiều mức nặng.",
+  "unlocks": "dumbbell",
+  "goals": [
+   "muscle",
+   "fatloss"
+  ],
+  "space": "medium",
+  "prio": "consider",
+  "icon": "fitness_center",
+  "specs": [
+   "2 tạ, mỗi tạ 2–10kg",
+   "Khóa vặn"
+  ],
+  "how": "Siết chặt khóa trước khi tập.",
+  "forWho": "Người đã quen tập, có chỗ cất.",
+  "note": ""
+ },
+ {
+  "id": "db-hex5",
+  "name": "Cặp tạ tay cao su 5kg",
+  "cat": "dumbbell",
+  "price": 380000,
+  "desc": "Tạ cố định, bền, không lăn.",
+  "unlocks": "dumbbell",
+  "goals": [
+   "muscle",
+   "fatloss",
+   "health"
+  ],
+  "space": "medium",
+  "prio": "consider",
+  "icon": "fitness_center",
+  "specs": [
+   "2 × 5kg",
+   "Bọc cao su"
+  ],
+  "how": "Bắt đầu với tạ nhẹ, tăng dần.",
+  "forWho": "Người muốn tăng cơ cơ bản.",
+  "note": ""
+ },
+ {
+  "id": "db-pair-2",
+  "name": "Cặp tạ tay nhẹ 2kg",
+  "cat": "dumbbell",
+  "price": 160000,
+  "desc": "Dành cho người mới và bài vai/tay.",
+  "unlocks": "dumbbell",
+  "goals": [
+   "health",
+   "fatloss"
+  ],
+  "space": "small",
+  "prio": "consider",
+  "icon": "fitness_center",
+  "specs": [
+   "2 × 2kg"
+  ],
+  "how": "Dùng cho nâng vai ngang, cuốn tạ.",
+  "forWho": "Người mới, nữ, người hồi phục.",
+  "note": ""
+ },
+ {
+  "id": "mat-8",
+  "name": "Thảm tập TPE 8mm",
+  "cat": "mat",
+  "price": 199000,
+  "desc": "Chống trượt, đệm đủ cho bài sàn.",
+  "unlocks": "mat",
+  "goals": [
+   "fatloss",
+   "muscle",
+   "endurance",
+   "health"
+  ],
+  "space": "small",
+  "prio": "essential",
+  "icon": "rectangle",
+  "specs": [
+   "Dày 8mm",
+   "183×61cm",
+   "TPE"
+  ],
+  "how": "Trải trên sàn phẳng, lau sau khi tập.",
+  "forWho": "Mọi người, nhất là tập trong phòng nhỏ.",
+  "note": ""
+ },
+ {
+  "id": "mat-10",
+  "name": "Thảm tập 10mm có dây đeo",
+  "cat": "mat",
+  "price": 249000,
+  "desc": "Dày hơn, êm cho đầu gối.",
+  "unlocks": "mat",
+  "goals": [
+   "health",
+   "endurance"
+  ],
+  "space": "small",
+  "prio": "optional",
+  "icon": "rectangle",
+  "specs": [
+   "Dày 10mm",
+   "Có dây đeo"
+  ],
+  "note": ""
+ },
+ {
+  "id": "pullup-door",
+  "name": "Xà đơn gắn cửa",
+  "cat": "pullup",
+  "price": 349000,
+  "desc": "Hít xà và các bài lưng/tay.",
+  "unlocks": "pullup",
+  "goals": [
+   "muscle"
+  ],
+  "space": "medium",
+  "prio": "optional",
+  "icon": "horizontal_rule",
+  "specs": [
+   "Chịu tải 150kg",
+   "Gắn khung cửa"
+  ],
+  "how": "Kiểm tra khung cửa chắc chắn, làm theo hướng dẫn lắp.",
+  "forWho": "Người đã có nền sức mạnh.",
+  "note": "Không dùng nếu khung cửa lỏng hoặc đau vai."
+ },
+ {
+  "id": "treadmill-fold",
+  "name": "Máy chạy bộ gấp gọn",
+  "cat": "treadmill",
+  "price": 5490000,
+  "desc": "Đi bộ/chạy trong nhà.",
+  "unlocks": "treadmill",
+  "goals": [
+   "fatloss",
+   "endurance"
+  ],
+  "space": "large",
+  "prio": "optional",
+  "icon": "directions_run",
+  "specs": [
+   "Công suất 2HP",
+   "Gấp gọn"
+  ],
+  "how": "Bắt đầu với đi bộ nhanh, tăng dốc dần.",
+  "forWho": "Có ngân sách và chỗ đặt.",
+  "note": "Chi phí cao, cân nhắc đi bộ/chạy ngoài trời trước."
+ },
+ {
+  "id": "rope-speed",
+  "name": "Dây nhảy tốc độ",
+  "cat": "cardio",
+  "price": 69000,
+  "desc": "Cardio chi phí thấp, cần ít không gian.",
+  "unlocks": "rope",
+  "goals": [
+   "fatloss",
+   "endurance"
+  ],
+  "space": "small",
+  "prio": "consider",
+  "icon": "sync_alt",
+  "specs": [
+   "Dây thép bọc",
+   "Chỉnh độ dài"
+  ],
+  "how": "Nhảy thấp, tiếp đất mũi chân.",
+  "forWho": "Người khớp gối ổn.",
+  "note": "Va đập mạnh, ồn khi nhảy sàn cứng."
+ },
+ {
+  "id": "step-board",
+  "name": "Bậc step aerobic",
+  "cat": "cardio",
+  "price": 290000,
+  "desc": "Bước lên/xuống tập chân và cardio nhẹ.",
+  "unlocks": null,
+  "goals": [
+   "fatloss",
+   "endurance"
+  ],
+  "space": "medium",
+  "prio": "optional",
+  "icon": "stairs",
+  "specs": [
+   "Điều chỉnh 2 độ cao"
+  ],
+  "note": ""
+ },
+ {
+  "id": "foam-roller",
+  "name": "Con lăn foam 33cm",
+  "cat": "recovery",
+  "price": 159000,
+  "desc": "Thả lỏng cơ sau tập.",
+  "unlocks": null,
+  "goals": [
+   "health",
+   "muscle"
+  ],
+  "space": "small",
+  "prio": "optional",
+  "icon": "sports_gymnastics",
+  "specs": [
+   "33cm",
+   "Mật độ trung bình"
+  ],
+  "note": ""
+ },
+ {
+  "id": "massage-ball",
+  "name": "Bóng massage 2 trái",
+  "cat": "recovery",
+  "price": 59000,
+  "desc": "Giảm căng cơ vai, bàn chân.",
+  "unlocks": null,
+  "goals": [
+   "health"
+  ],
+  "space": "small",
+  "prio": "optional",
+  "icon": "sports_baseball",
+  "specs": [
+   "2 bóng cao su"
+  ],
+  "note": ""
+ },
+ {
+  "id": "stretch-strap",
+  "name": "Dây giãn cơ",
+  "cat": "recovery",
+  "price": 89000,
+  "desc": "Hỗ trợ giãn cơ đùi sau, vai.",
+  "unlocks": null,
+  "goals": [
+   "health"
+  ],
+  "space": "small",
+  "prio": "optional",
+  "icon": "straighten",
+  "specs": [
+   "Dài 180cm"
+  ],
+  "note": ""
+ },
+ {
+  "id": "whey-1kg",
+  "name": "Whey protein 1kg (thực phẩm bổ sung)",
+  "cat": "supp",
+  "price": 890000,
+  "desc": "Bổ sung đạm khi khẩu phần ăn chưa đủ.",
+  "unlocks": null,
+  "goals": [
+   "muscle"
+  ],
+  "space": "small",
+  "prio": "optional",
+  "icon": "water_drop",
+  "specs": [
+   "1kg",
+   "~30 lần dùng"
+  ],
+  "how": "Theo hướng dẫn trên bao bì.",
+  "forWho": "Người ăn khó đủ đạm.",
+  "note": "Thực phẩm bổ sung, không phải thuốc. Không có tác dụng điều trị."
+ },
+ {
+  "id": "oat-1kg",
+  "name": "Yến mạch cán dẹt 1kg",
+  "cat": "supp",
+  "price": 98000,
+  "desc": "Tinh bột chậm, giàu chất xơ cho bữa sáng.",
+  "unlocks": null,
+  "goals": [
+   "health",
+   "fatloss",
+   "endurance"
+  ],
+  "space": "small",
+  "prio": "consider",
+  "icon": "grain",
+  "specs": [
+   "1kg"
+  ],
+  "how": "Nấu cháo hoặc ngâm qua đêm.",
+  "forWho": "Mọi người.",
+  "note": "Thực phẩm bổ sung, không phải thuốc."
+ },
+ {
+  "id": "multivit",
+  "name": "Vitamin tổng hợp (thực phẩm bổ sung)",
+  "cat": "supp",
+  "price": 250000,
+  "desc": "Hỗ trợ bổ sung vi chất khi ăn thiếu đa dạng.",
+  "unlocks": null,
+  "goals": [
+   "health"
+  ],
+  "space": "small",
+  "prio": "optional",
+  "icon": "medication",
+  "specs": [
+   "60 viên"
+  ],
+  "how": "Theo hướng dẫn trên nhãn.",
+  "forWho": "Người ăn uống chưa đa dạng.",
+  "note": "Thực phẩm bổ sung, không phải thuốc. Hỏi ý kiến bác sĩ nếu đang điều trị bệnh."
+ },
+ {
+  "id": "shaker",
+  "name": "Bình lắc 600ml",
+  "cat": "supp",
+  "price": 49000,
+  "desc": "Pha đồ uống protein.",
+  "unlocks": null,
+  "goals": [
+   "muscle"
+  ],
+  "space": "small",
+  "prio": "optional",
+  "icon": "water_bottle",
+  "specs": [
+   "600ml",
+   "Có lưới"
+  ],
+  "note": ""
+ }
+]

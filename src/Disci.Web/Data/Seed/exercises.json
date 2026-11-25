@@ -1,0 +1,1498 @@
+[
+ {
+  "id": "pushup",
+  "name": "Hít đất",
+  "cat": "nguc",
+  "muscles": "Ngực, vai trước, tay sau",
+  "level": 2,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 60,
+  "tags": [
+   "shoulder",
+   "wrist"
+  ],
+  "quiet": true,
+  "steps": [
+   "Chống tay rộng hơn vai, thân thẳng từ đầu đến gót.",
+   "Hạ ngực gần sát sàn, khuỷu tay chếch 45°.",
+   "Đẩy lên, thở ra."
+  ],
+  "mistakes": [
+   "Võng lưng",
+   "Khuỷu tay mở 90° sang hai bên"
+  ],
+  "rep": "knee_pushup",
+  "warn": "",
+  "met": 4
+ },
+ {
+  "id": "knee_pushup",
+  "name": "Hít đất quỳ gối",
+  "cat": "nguc",
+  "muscles": "Ngực, tay sau",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 60,
+  "tags": [
+   "wrist"
+  ],
+  "quiet": true,
+  "steps": [
+   "Quỳ trên thảm, tay chống rộng bằng vai.",
+   "Giữ thân thẳng từ đầu đến gối, hạ ngực xuống.",
+   "Đẩy lên đều tay."
+  ],
+  "mistakes": [
+   "Chổng mông",
+   "Hạ không hết biên độ"
+  ],
+  "rep": "incline_pushup",
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "incline_pushup",
+  "name": "Hít đất nghiêng (tay chống ghế/bàn vững)",
+  "cat": "nguc",
+  "muscles": "Ngực, vai trước",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 60,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Chống tay lên mặt ghế/bàn chắc chắn, chân lùi ra sau.",
+   "Hạ ngực xuống mép ghế rồi đẩy lên."
+  ],
+  "mistakes": [
+   "Dùng ghế trơn trượt",
+   "Cúi đầu"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "band_chest_press",
+  "name": "Đẩy ngực với dây kháng lực",
+  "cat": "nguc",
+  "muscles": "Ngực, tay sau",
+  "level": 1,
+  "equip": [
+   "band"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 60,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Quàng dây sau lưng, hai tay cầm hai đầu.",
+   "Đẩy thẳng ra trước đến khi duỗi tay.",
+   "Thả chậm về vị trí ban đầu."
+  ],
+  "mistakes": [
+   "Nhún vai",
+   "Thả dây quá nhanh"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "db_floor_press",
+  "name": "Đẩy tạ nằm sàn",
+  "cat": "nguc",
+  "muscles": "Ngực, tay sau",
+  "level": 2,
+  "equip": [
+   "dumbbell",
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 75,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Nằm ngửa, gối co, tạ ở hai bên ngực.",
+   "Đẩy tạ lên thẳng tay, hạ chậm đến khi khuỷu chạm sàn."
+  ],
+  "mistakes": [
+   "Khuỷu mở quá rộng",
+   "Ưỡn lưng"
+  ],
+  "rep": "band_chest_press",
+  "warn": "",
+  "met": 4
+ },
+ {
+  "id": "diamond_pushup",
+  "name": "Hít đất kim cương",
+  "cat": "nguc",
+  "muscles": "Ngực trong, tay sau",
+  "level": 3,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 8,
+  "rest": 75,
+  "tags": [
+   "wrist",
+   "shoulder"
+  ],
+  "quiet": true,
+  "steps": [
+   "Hai bàn tay chụm tạo hình thoi dưới ngực.",
+   "Hạ người, khuỷu sát thân, đẩy lên."
+  ],
+  "mistakes": [
+   "Đau cổ tay vẫn cố tập"
+  ],
+  "rep": "pushup",
+  "warn": "Yêu cầu sức mạnh tay và cổ tay tốt.",
+  "met": 4.5
+ },
+ {
+  "id": "band_row",
+  "name": "Kéo dây kháng lực ngồi",
+  "cat": "lung",
+  "muscles": "Lưng giữa, cơ xô, tay trước",
+  "level": 1,
+  "equip": [
+   "band"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 60,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Ngồi duỗi chân, móc dây quanh bàn chân.",
+   "Kéo hai khuỷu ra sau, ép bả vai.",
+   "Thả chậm."
+  ],
+  "mistakes": [
+   "Gù lưng",
+   "Nhún vai khi kéo"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "db_row",
+  "name": "Kéo tạ một tay",
+  "cat": "lung",
+  "muscles": "Cơ xô, lưng giữa",
+  "level": 1,
+  "equip": [
+   "dumbbell"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 60,
+  "tags": [
+   "spine"
+  ],
+  "quiet": true,
+  "steps": [
+   "Một tay chống ghế, lưng phẳng, tay kia cầm tạ.",
+   "Kéo khuỷu lên sát hông, siết bả vai."
+  ],
+  "mistakes": [
+   "Xoay người",
+   "Dùng đà"
+  ],
+  "rep": "band_row",
+  "warn": "",
+  "met": 4
+ },
+ {
+  "id": "superman",
+  "name": "Superman",
+  "cat": "lung",
+  "muscles": "Cơ dựng sống, mông",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 45,
+  "tags": [
+   "spine"
+  ],
+  "quiet": true,
+  "steps": [
+   "Nằm sấp, hai tay duỗi trước.",
+   "Nhấc tay chân lên vài giây rồi hạ xuống."
+  ],
+  "mistakes": [
+   "Ngửa cổ quá mức"
+  ],
+  "rep": "bird_dog",
+  "warn": "Dừng nếu đau thắt lưng.",
+  "met": 3
+ },
+ {
+  "id": "pullup",
+  "name": "Hít xà đơn",
+  "cat": "lung",
+  "muscles": "Cơ xô, tay trước",
+  "level": 3,
+  "equip": [
+   "pullup"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 6,
+  "rest": 90,
+  "tags": [
+   "shoulder",
+   "overhead"
+  ],
+  "quiet": true,
+  "steps": [
+   "Nắm xà rộng hơn vai, treo người.",
+   "Kéo cằm qua xà, hạ chậm."
+  ],
+  "mistakes": [
+   "Đung đưa lấy đà",
+   "Không duỗi hết tay"
+  ],
+  "rep": "band_row",
+  "warn": "Cần sức mạnh nền tảng; đảm bảo xà gắn chắc chắn.",
+  "met": 5
+ },
+ {
+  "id": "reverse_snow_angel",
+  "name": "Snow angel ngược",
+  "cat": "lung",
+  "muscles": "Lưng trên, vai sau",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Nằm sấp, tay dọc thân.",
+   "Vẽ vòng cung tay lên quá đầu rồi trở về."
+  ],
+  "mistakes": [
+   "Nâng ngực quá cao"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "db_shoulder_press",
+  "name": "Đẩy tạ qua đầu",
+  "cat": "vai",
+  "muscles": "Vai, tay sau",
+  "level": 2,
+  "equip": [
+   "dumbbell"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 75,
+  "tags": [
+   "overhead",
+   "shoulder"
+  ],
+  "quiet": true,
+  "steps": [
+   "Đứng/ngồi thẳng, tạ ngang vai.",
+   "Đẩy lên thẳng đầu, hạ chậm."
+  ],
+  "mistakes": [
+   "Ưỡn lưng",
+   "Khóa gối"
+  ],
+  "rep": "band_lateral_raise",
+  "warn": "Không phù hợp nếu đau vai hoặc có khuyến cáo hạn chế đưa tay qua đầu.",
+  "met": 4
+ },
+ {
+  "id": "band_lateral_raise",
+  "name": "Nâng vai ngang với dây",
+  "cat": "vai",
+  "muscles": "Vai giữa",
+  "level": 1,
+  "equip": [
+   "band"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 15,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Đứng lên giữa dây, hai tay cầm hai đầu.",
+   "Nâng tay sang ngang đến tầm vai, hạ chậm."
+  ],
+  "mistakes": [
+   "Nhún vai",
+   "Vung tay"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "db_lateral_raise",
+  "name": "Nâng tạ ngang vai",
+  "cat": "vai",
+  "muscles": "Vai giữa",
+  "level": 1,
+  "equip": [
+   "dumbbell"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Tay cầm tạ nhẹ, khuỷu hơi gập.",
+   "Nâng sang ngang đến tầm vai rồi hạ chậm."
+  ],
+  "mistakes": [
+   "Tạ quá nặng",
+   "Vung đà"
+  ],
+  "rep": "band_lateral_raise",
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "pike_pushup",
+  "name": "Pike push-up",
+  "cat": "vai",
+  "muscles": "Vai, tay sau",
+  "level": 2,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 8,
+  "rest": 75,
+  "tags": [
+   "overhead",
+   "shoulder",
+   "wrist"
+  ],
+  "quiet": true,
+  "steps": [
+   "Tạo hình chữ V ngược, hông cao.",
+   "Hạ đỉnh đầu về phía sàn rồi đẩy lên."
+  ],
+  "mistakes": [
+   "Hạ đầu xuống sàn đột ngột"
+  ],
+  "rep": "band_lateral_raise",
+  "warn": "Không phù hợp nếu đau vai/cổ tay.",
+  "met": 4
+ },
+ {
+  "id": "band_face_pull",
+  "name": "Kéo dây về mặt (Face pull)",
+  "cat": "vai",
+  "muscles": "Vai sau, đai xoay vai",
+  "level": 1,
+  "equip": [
+   "band"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 15,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Móc dây ngang tầm mặt ở cột/cửa chắc chắn.",
+   "Kéo về phía mặt, khuỷu cao, xoay ngoài vai."
+  ],
+  "mistakes": [
+   "Dùng đà lưng"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "db_curl",
+  "name": "Cuốn tạ tay trước",
+  "cat": "tay",
+  "muscles": "Bắp tay trước",
+  "level": 1,
+  "equip": [
+   "dumbbell"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Đứng thẳng, khuỷu sát thân.",
+   "Cuốn tạ lên vai, hạ chậm."
+  ],
+  "mistakes": [
+   "Vung lưng lấy đà"
+  ],
+  "rep": "band_curl",
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "band_curl",
+  "name": "Cuốn dây tay trước",
+  "cat": "tay",
+  "muscles": "Bắp tay trước",
+  "level": 1,
+  "equip": [
+   "band"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 15,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Đạp chân lên giữa dây, hai tay cầm hai đầu.",
+   "Cuốn lên rồi hạ chậm."
+  ],
+  "mistakes": [
+   "Khuỷu bị đưa ra trước"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "bench_dip",
+  "name": "Dips ghế (tay sau)",
+  "cat": "tay",
+  "muscles": "Tay sau, ngực dưới",
+  "level": 2,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 60,
+  "tags": [
+   "shoulder",
+   "wrist"
+  ],
+  "quiet": true,
+  "steps": [
+   "Chống tay lên mép ghế vững, chân duỗi/co.",
+   "Hạ người đến khuỷu 90° rồi đẩy lên."
+  ],
+  "mistakes": [
+   "Hạ quá sâu gây đau vai"
+  ],
+  "rep": "band_pushdown",
+  "warn": "Không phù hợp nếu đau vai.",
+  "met": 4
+ },
+ {
+  "id": "db_tricep_ext",
+  "name": "Duỗi tay sau qua đầu",
+  "cat": "tay",
+  "muscles": "Tay sau",
+  "level": 2,
+  "equip": [
+   "dumbbell"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 60,
+  "tags": [
+   "overhead"
+  ],
+  "quiet": true,
+  "steps": [
+   "Hai tay giữ một tạ sau đầu.",
+   "Duỗi tay lên cao, hạ chậm."
+  ],
+  "mistakes": [
+   "Khuỷu mở rộng"
+  ],
+  "rep": "band_pushdown",
+  "warn": "Hạn chế nếu đau vai.",
+  "met": 3.5
+ },
+ {
+  "id": "band_pushdown",
+  "name": "Ép dây tay sau",
+  "cat": "tay",
+  "muscles": "Tay sau",
+  "level": 1,
+  "equip": [
+   "band"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 15,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Móc dây trên cao (cửa chắc), khuỷu sát thân.",
+   "Ép dây xuống duỗi thẳng tay."
+  ],
+  "mistakes": [
+   "Nhún vai"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "plank",
+  "name": "Plank",
+  "cat": "bung",
+  "muscles": "Cơ lõi",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "time",
+  "sets": 3,
+  "amt": 30,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Chống khuỷu tay dưới vai, thân thẳng.",
+   "Siết bụng, mông, giữ nhịp thở đều."
+  ],
+  "mistakes": [
+   "Võng lưng",
+   "Chổng mông"
+  ],
+  "rep": "dead_bug",
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "dead_bug",
+  "name": "Dead bug",
+  "cat": "bung",
+  "muscles": "Cơ lõi sâu",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Nằm ngửa, tay chân giơ lên 90°.",
+   "Hạ tay và chân đối diện, giữ lưng dính sàn."
+  ],
+  "mistakes": [
+   "Lưng cong khỏi sàn"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "crunch",
+  "name": "Gập bụng",
+  "cat": "bung",
+  "muscles": "Cơ bụng trên",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 15,
+  "rest": 45,
+  "tags": [
+   "spine"
+  ],
+  "quiet": true,
+  "steps": [
+   "Nằm ngửa gối co, tay sau đầu nhẹ.",
+   "Nhấc vai khỏi sàn, siết bụng rồi hạ."
+  ],
+  "mistakes": [
+   "Kéo cổ"
+  ],
+  "rep": "dead_bug",
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "bicycle_crunch",
+  "name": "Đạp xe trên không",
+  "cat": "bung",
+  "muscles": "Bụng chéo",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 20,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Nằm ngửa, xoay thân chạm khuỷu vào gối đối diện."
+  ],
+  "mistakes": [
+   "Kéo cổ",
+   "Làm quá nhanh"
+  ],
+  "rep": "dead_bug",
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "leg_raise",
+  "name": "Nâng chân",
+  "cat": "bung",
+  "muscles": "Bụng dưới",
+  "level": 2,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 60,
+  "tags": [
+   "spine"
+  ],
+  "quiet": true,
+  "steps": [
+   "Nằm ngửa, nâng hai chân thẳng lên 90° rồi hạ chậm."
+  ],
+  "mistakes": [
+   "Võng lưng khi hạ chân"
+  ],
+  "rep": "dead_bug",
+  "warn": "Dừng nếu đau thắt lưng.",
+  "met": 3.5
+ },
+ {
+  "id": "mountain_climber",
+  "name": "Mountain climber",
+  "cat": "bung",
+  "muscles": "Cơ lõi, tim phổi",
+  "level": 2,
+  "equip": [
+   "mat"
+  ],
+  "kind": "time",
+  "sets": 3,
+  "amt": 30,
+  "rest": 45,
+  "tags": [
+   "intense",
+   "wrist"
+  ],
+  "quiet": false,
+  "steps": [
+   "Tư thế plank tay thẳng, lần lượt đưa gối về ngực."
+  ],
+  "mistakes": [
+   "Mông nhô cao"
+  ],
+  "rep": "plank",
+  "warn": "Cường độ tim mạch cao.",
+  "met": 7
+ },
+ {
+  "id": "bird_dog",
+  "name": "Bird dog",
+  "cat": "bung",
+  "muscles": "Cơ lõi, lưng dưới",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Chống 4 điểm, duỗi tay phải – chân trái, giữ 2 giây rồi đổi bên."
+  ],
+  "mistakes": [
+   "Xoay hông"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "bodyweight_squat",
+  "name": "Squat thân người",
+  "cat": "chan",
+  "muscles": "Đùi trước, mông",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 60,
+  "tags": [
+   "knee"
+  ],
+  "quiet": true,
+  "steps": [
+   "Đứng rộng bằng vai, đẩy hông ra sau.",
+   "Hạ đến khi đùi gần song song sàn, gối thẳng hướng mũi chân."
+  ],
+  "mistakes": [
+   "Gối cụp vào trong",
+   "Nhấc gót"
+  ],
+  "rep": "glute_bridge",
+  "warn": "Giảm biên độ nếu đau gối.",
+  "met": 4.5
+ },
+ {
+  "id": "glute_bridge",
+  "name": "Cầu mông",
+  "cat": "chan",
+  "muscles": "Mông, đùi sau",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 15,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Nằm ngửa gối co, nâng hông cao rồi siết mông 1-2 giây."
+  ],
+  "mistakes": [
+   "Ưỡn lưng thay vì dùng mông"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "lunge",
+  "name": "Lunge (bước chùng)",
+  "cat": "chan",
+  "muscles": "Đùi, mông",
+  "level": 2,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 60,
+  "tags": [
+   "knee"
+  ],
+  "quiet": true,
+  "steps": [
+   "Bước dài về trước, hạ gối sau gần sàn.",
+   "Đẩy gót chân trước đứng lên."
+  ],
+  "mistakes": [
+   "Gối trước vượt quá mũi chân nhiều"
+  ],
+  "rep": "glute_bridge",
+  "warn": "Không phù hợp nếu đau gối.",
+  "met": 4.5
+ },
+ {
+  "id": "goblet_squat",
+  "name": "Goblet squat",
+  "cat": "chan",
+  "muscles": "Đùi, mông, lõi",
+  "level": 2,
+  "equip": [
+   "dumbbell"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 75,
+  "tags": [
+   "knee"
+  ],
+  "quiet": true,
+  "steps": [
+   "Ôm một tạ trước ngực.",
+   "Ngồi xuống sâu vừa phải, ngực thẳng."
+  ],
+  "mistakes": [
+   "Gập người về trước"
+  ],
+  "rep": "bodyweight_squat",
+  "warn": "Giảm biên độ nếu đau gối.",
+  "met": 5
+ },
+ {
+  "id": "db_rdl",
+  "name": "Romanian deadlift tạ đơn",
+  "cat": "chan",
+  "muscles": "Đùi sau, mông, lưng dưới",
+  "level": 2,
+  "equip": [
+   "dumbbell"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 75,
+  "tags": [
+   "spine"
+  ],
+  "quiet": true,
+  "steps": [
+   "Hai tay cầm tạ trước đùi, đẩy hông ra sau, lưng phẳng.",
+   "Hạ tạ đến gối rồi đứng lên bằng hông."
+  ],
+  "mistakes": [
+   "Tròn lưng"
+  ],
+  "rep": "glute_bridge",
+  "warn": "Không phù hợp nếu có khuyến cáo hạn chế tải cột sống.",
+  "met": 5
+ },
+ {
+  "id": "wall_sit",
+  "name": "Ngồi tựa tường",
+  "cat": "chan",
+  "muscles": "Đùi trước",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 3,
+  "amt": 30,
+  "rest": 45,
+  "tags": [
+   "knee"
+  ],
+  "quiet": true,
+  "steps": [
+   "Tựa lưng vào tường, đùi song song sàn, giữ yên."
+  ],
+  "mistakes": [
+   "Gối vượt mũi chân"
+  ],
+  "rep": "glute_bridge",
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "step_up",
+  "name": "Bước lên bậc",
+  "cat": "chan",
+  "muscles": "Đùi, mông",
+  "level": 2,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 60,
+  "tags": [
+   "knee"
+  ],
+  "quiet": true,
+  "steps": [
+   "Đặt cả bàn chân lên bậc vững, đẩy người lên rồi hạ chậm."
+  ],
+  "mistakes": [
+   "Đẩy bằng chân sau"
+  ],
+  "rep": "glute_bridge",
+  "warn": "",
+  "met": 4.5
+ },
+ {
+  "id": "calf_raise",
+  "name": "Nhón gót",
+  "cat": "chan",
+  "muscles": "Bắp chân",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 15,
+  "rest": 30,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Đứng, nhón gót lên cao, hạ chậm."
+  ],
+  "mistakes": [
+   "Làm quá nhanh"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3
+ },
+ {
+  "id": "band_lateral_walk",
+  "name": "Đi ngang với dây",
+  "cat": "chan",
+  "muscles": "Mông giữa",
+  "level": 1,
+  "equip": [
+   "band"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 12,
+  "rest": 45,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Dây quanh đầu gối, hạ nhẹ gối, bước ngang giữ lực căng."
+  ],
+  "mistakes": [
+   "Gối cụp vào"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 3.5
+ },
+ {
+  "id": "brisk_walk",
+  "name": "Đi bộ nhanh",
+  "cat": "cardio",
+  "muscles": "Tim phổi, chân",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 1,
+  "amt": 900,
+  "rest": 0,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Đi nhịp nhanh nhưng vẫn nói được thành câu.",
+   "Giữ lưng thẳng, vung tay tự nhiên."
+  ],
+  "mistakes": [
+   "Bước quá dài"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 4
+ },
+ {
+  "id": "march_in_place",
+  "name": "Đi bộ tại chỗ (êm)",
+  "cat": "cardio",
+  "muscles": "Tim phổi",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 3,
+  "amt": 120,
+  "rest": 30,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Nâng gối cao vừa phải, vung tay nhịp nhàng, tiếp đất nhẹ."
+  ],
+  "mistakes": [
+   "Dậm mạnh gây ồn"
+  ],
+  "rep": null,
+  "warn": "Phù hợp ký túc xá/căn hộ.",
+  "met": 3.5
+ },
+ {
+  "id": "shadow_boxing",
+  "name": "Đấm gió (Shadow boxing)",
+  "cat": "cardio",
+  "muscles": "Tim phổi, vai",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 3,
+  "amt": 60,
+  "rest": 30,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Đứng chân rộng bằng vai, đấm thẳng/móc nhẹ, di chuyển trọng tâm."
+  ],
+  "mistakes": [
+   "Khóa khuỷu khi đấm"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 5
+ },
+ {
+  "id": "incline_walk",
+  "name": "Đi bộ dốc trên máy",
+  "cat": "cardio",
+  "muscles": "Tim phổi, mông",
+  "level": 1,
+  "equip": [
+   "treadmill"
+  ],
+  "kind": "time",
+  "sets": 1,
+  "amt": 1200,
+  "rest": 0,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Đặt độ dốc 5–8%, tốc độ vừa phải, không vịn tay quá nhiều."
+  ],
+  "mistakes": [
+   "Vịn chặt tay vịn"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 5
+ },
+ {
+  "id": "jog",
+  "name": "Chạy bộ nhẹ",
+  "cat": "cardio",
+  "muscles": "Tim phổi, chân",
+  "level": 2,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 1,
+  "amt": 900,
+  "rest": 0,
+  "tags": [
+   "knee",
+   "impact",
+   "intense"
+  ],
+  "quiet": false,
+  "steps": [
+   "Chạy nhịp vừa, tiếp đất giữa bàn chân, thở đều."
+  ],
+  "mistakes": [
+   "Bước quá dài",
+   "Tăng quãng đường quá nhanh"
+  ],
+  "rep": "brisk_walk",
+  "warn": "Tải va đập lên khớp gối.",
+  "met": 8
+ },
+ {
+  "id": "jumping_jack",
+  "name": "Jumping jack",
+  "cat": "cardio",
+  "muscles": "Toàn thân",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 3,
+  "amt": 40,
+  "rest": 30,
+  "tags": [
+   "impact",
+   "knee"
+  ],
+  "quiet": false,
+  "steps": [
+   "Nhảy mở chân – giơ tay, rồi khép lại."
+  ],
+  "mistakes": [
+   "Tiếp đất cứng"
+  ],
+  "rep": "march_in_place",
+  "warn": "Ồn và có va đập.",
+  "met": 7
+ },
+ {
+  "id": "jump_rope",
+  "name": "Nhảy dây",
+  "cat": "cardio",
+  "muscles": "Tim phổi, bắp chân",
+  "level": 2,
+  "equip": [
+   "rope"
+  ],
+  "kind": "time",
+  "sets": 4,
+  "amt": 60,
+  "rest": 30,
+  "tags": [
+   "impact",
+   "knee",
+   "intense"
+  ],
+  "quiet": false,
+  "steps": [
+   "Nhảy thấp, cổ tay xoay dây, tiếp đất bằng mũi bàn chân."
+  ],
+  "mistakes": [
+   "Nhảy quá cao"
+  ],
+  "rep": "march_in_place",
+  "warn": "Va đập mạnh; cần sàn tốt.",
+  "met": 10
+ },
+ {
+  "id": "high_knees",
+  "name": "Nâng cao gối",
+  "cat": "cardio",
+  "muscles": "Tim phổi, đùi",
+  "level": 2,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 3,
+  "amt": 30,
+  "rest": 30,
+  "tags": [
+   "impact",
+   "knee",
+   "intense"
+  ],
+  "quiet": false,
+  "steps": [
+   "Chạy tại chỗ, nâng gối ngang hông."
+  ],
+  "mistakes": [
+   "Ngả người ra sau"
+  ],
+  "rep": "march_in_place",
+  "warn": "",
+  "met": 8
+ },
+ {
+  "id": "burpee",
+  "name": "Burpee",
+  "cat": "toanthan",
+  "muscles": "Toàn thân",
+  "level": 3,
+  "equip": [
+   "none"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 8,
+  "rest": 75,
+  "tags": [
+   "impact",
+   "knee",
+   "shoulder",
+   "intense",
+   "wrist"
+  ],
+  "quiet": false,
+  "steps": [
+   "Ngồi xổm – chống tay – đá chân ra sau – hít đất – kéo chân về – bật lên."
+  ],
+  "mistakes": [
+   "Võng lưng khi đá chân"
+  ],
+  "rep": "march_in_place",
+  "warn": "Rất nặng với tim mạch và khớp; chỉ dành cho người đã quen tập.",
+  "met": 10
+ },
+ {
+  "id": "squat_to_press",
+  "name": "Squat đẩy tạ",
+  "cat": "toanthan",
+  "muscles": "Toàn thân",
+  "level": 2,
+  "equip": [
+   "dumbbell"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 10,
+  "rest": 75,
+  "tags": [
+   "knee",
+   "overhead"
+  ],
+  "quiet": true,
+  "steps": [
+   "Squat với tạ ngang vai, khi đứng lên đẩy tạ qua đầu."
+  ],
+  "mistakes": [
+   "Gập lưng"
+  ],
+  "rep": "goblet_squat",
+  "warn": "",
+  "met": 6
+ },
+ {
+  "id": "inchworm",
+  "name": "Inchworm",
+  "cat": "toanthan",
+  "muscles": "Đùi sau, lõi, vai",
+  "level": 2,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 3,
+  "amt": 8,
+  "rest": 45,
+  "tags": [
+   "wrist"
+  ],
+  "quiet": true,
+  "steps": [
+   "Gập người chạm sàn, bò tay ra plank, bò ngược về."
+  ],
+  "mistakes": [
+   "Gối cong quá nhiều"
+  ],
+  "rep": "cat_cow",
+  "warn": "",
+  "met": 4
+ },
+ {
+  "id": "cat_cow",
+  "name": "Mèo – bò (Cat-Cow)",
+  "cat": "gian",
+  "muscles": "Cột sống",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "reps",
+  "sets": 2,
+  "amt": 10,
+  "rest": 15,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Chống 4 điểm, cong rồi võng lưng theo nhịp thở."
+  ],
+  "mistakes": [
+   "Làm quá nhanh"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 2.3
+ },
+ {
+  "id": "child_pose",
+  "name": "Tư thế em bé",
+  "cat": "gian",
+  "muscles": "Lưng, hông",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "time",
+  "sets": 2,
+  "amt": 40,
+  "rest": 10,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Quỳ, ngồi lên gót, duỗi tay về trước, thở sâu."
+  ],
+  "mistakes": [
+   "Nín thở"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 2
+ },
+ {
+  "id": "hamstring_stretch",
+  "name": "Giãn đùi sau",
+  "cat": "gian",
+  "muscles": "Đùi sau",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "time",
+  "sets": 2,
+  "amt": 30,
+  "rest": 10,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Ngồi duỗi một chân, nghiêng người từ hông tới bàn chân."
+  ],
+  "mistakes": [
+   "Gù lưng để chạm chân"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 2
+ },
+ {
+  "id": "hip_flexor_stretch",
+  "name": "Giãn gập hông",
+  "cat": "gian",
+  "muscles": "Cơ gập hông",
+  "level": 1,
+  "equip": [
+   "mat"
+  ],
+  "kind": "time",
+  "sets": 2,
+  "amt": 30,
+  "rest": 10,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Quỳ một gối, đẩy hông về trước nhẹ nhàng."
+  ],
+  "mistakes": [
+   "Võng lưng"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 2
+ },
+ {
+  "id": "chest_stretch",
+  "name": "Giãn ngực ở khung cửa",
+  "cat": "gian",
+  "muscles": "Ngực, vai trước",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 2,
+  "amt": 30,
+  "rest": 10,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Đặt cẳng tay lên khung cửa, bước nhẹ về trước."
+  ],
+  "mistakes": [
+   "Kéo quá căng"
+  ],
+  "rep": null,
+  "warn": "",
+  "met": 2
+ },
+ {
+  "id": "band_external_rotation",
+  "name": "Xoay ngoài vai với dây (đai xoay vai)",
+  "cat": "gian",
+  "muscles": "Đai xoay vai",
+  "level": 1,
+  "equip": [
+   "band"
+  ],
+  "kind": "reps",
+  "sets": 2,
+  "amt": 15,
+  "rest": 20,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Khuỷu sát thân gập 90°, xoay cẳng tay ra ngoài chống lực dây."
+  ],
+  "mistakes": [
+   "Khuỷu rời thân"
+  ],
+  "rep": null,
+  "warn": "Bài nhẹ cho vai.",
+  "met": 2.5
+ },
+ {
+  "id": "neck_shoulder_release",
+  "name": "Thả lỏng cổ – vai",
+  "cat": "gian",
+  "muscles": "Cổ, vai",
+  "level": 1,
+  "equip": [
+   "none"
+  ],
+  "kind": "time",
+  "sets": 2,
+  "amt": 30,
+  "rest": 10,
+  "tags": [],
+  "quiet": true,
+  "steps": [
+   "Nghiêng đầu sang bên, thả vai, thở sâu; đổi bên."
+  ],
+  "mistakes": [
+   "Dùng tay kéo mạnh"
+  ],
+  "rep": null,
+  "warn": "Hữu ích cho người ngồi lâu.",
+  "met": 2
+ }
+]

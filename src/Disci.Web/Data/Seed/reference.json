@@ -1,0 +1,66 @@
+{
+ "cats": {
+  "nguc": "Ngực",
+  "lung": "Lưng",
+  "vai": "Vai",
+  "tay": "Tay",
+  "bung": "Bụng",
+  "chan": "Chân",
+  "cardio": "Cardio",
+  "toanthan": "Toàn thân",
+  "gian": "Giãn cơ & phục hồi"
+ },
+ "catIcon": {
+  "nguc": "fitness_center",
+  "lung": "accessibility_new",
+  "vai": "sports_gymnastics",
+  "tay": "sports_martial_arts",
+  "bung": "self_improvement",
+  "chan": "directions_walk",
+  "cardio": "directions_run",
+  "toanthan": "bolt",
+  "gian": "spa"
+ },
+ "equip": {
+  "none": "Không dụng cụ",
+  "mat": "Thảm tập",
+  "band": "Dây kháng lực",
+  "dumbbell": "Tạ tay",
+  "pullup": "Xà đơn",
+  "rope": "Dây nhảy",
+  "treadmill": "Máy chạy bộ"
+ },
+ "levels": {
+  "1": "Dễ",
+  "2": "Trung bình",
+  "3": "Khó"
+ },
+ "productCats": {
+  "band": "Dây kháng lực",
+  "dumbbell": "Tạ tay",
+  "mat": "Thảm tập",
+  "pullup": "Xà đơn",
+  "treadmill": "Máy chạy bộ",
+  "cardio": "Thiết bị cardio",
+  "recovery": "Dụng cụ phục hồi",
+  "supp": "Thực phẩm bổ sung"
+ },
+ "goals": {
+  "fatloss": "Giảm mỡ",
+  "muscle": "Tăng cơ",
+  "endurance": "Tăng sức bền",
+  "health": "Nâng cao sức khỏe chung"
+ },
+ "activity": {
+  "1": "Ít vận động (ngồi văn phòng)",
+  "2": "Nhẹ (1–3 buổi/tuần)",
+  "3": "Vừa (3–5 buổi/tuần)",
+  "4": "Cao (6–7 buổi/tuần)"
+ },
+ "places": {
+  "home": "Tại nhà",
+  "dorm": "Ký túc xá / phòng nhỏ",
+  "outdoor": "Ngoài trời",
+  "gym": "Phòng gym"
+ }
+}

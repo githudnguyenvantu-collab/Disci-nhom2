@@ -1,0 +1,9 @@
+@{ var ok = (bool)(ViewData["Ok"] ?? false); }
+<!DOCTYPE html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DISCI – Xác thực email</title>
+<script src="~/assets/theme-init.js"></script><link rel="stylesheet" href="~/assets/app.css"></head>
+<body style="display:grid;place-items:center;min-height:100vh;padding:24px;font-family:Inter,system-ui,sans-serif">
+<div style="max-width:420px;text-align:center">
+@if (ok) { <h1 style="font-size:26px;margin-bottom:8px">Đã xác thực email</h1><p style="opacity:.8;margin-bottom:20px">Cảm ơn bạn. Tài khoản DISCI của bạn đã được xác thực.</p> }
+else { <h1 style="font-size:26px;margin-bottom:8px">Liên kết không hợp lệ</h1><p style="opacity:.8;margin-bottom:20px">Liên kết xác thực không đúng hoặc đã hết hạn.</p> }
+<a href="~/index.html" style="text-decoration:underline">Về trang đăng nhập</a></div></body></html>
